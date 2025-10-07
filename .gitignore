@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+*.sqlite3
+.env
+.venv/
+*.log
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Docker
+*.pid
+*.sock
+
+# Sistema
+.DS_Store
+Thumbs.db
